@@ -1,3 +1,5 @@
 hellooooooo
 printf("working")
 printf("calculations");
+addition=a+b;
+sub=a-b;
