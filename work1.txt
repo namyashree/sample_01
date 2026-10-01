@@ -1,1 +1,2 @@
-print("addition",a+b);`
+print("addition",a+b);
+print("sub",a-b);
